@@ -35,6 +35,52 @@ Whenever a Food is put into a graveyard from the battlefield, put two +1/+1 coun
       <set rarity="rare" picurl="https://raw.githubusercontent.com/ElectricMolasses/CockatriceCustomCards/refs/heads/main/assets/cards/Garfield%2C%20Eater%20of%20All.jpeg">GFD</set>
     </card>
 
+    <card>
+      <name>John, Provider of Pasta</name>
+      <text>
+If one or more tokens would be created under your control, those tokens plus an additional Food token are created instead. (It's an artifact with "{2}, {T}, Sacrifice this token: You gain 3 life.")
+Sacrifice three Foods: Draw a card.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Halfling Citizen</type>
+        <maintype>Creature</maintype>
+        <manacost>2G</manacost>
+        <cmc>3</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <pt>2/3</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+      </prop>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/ElectricMolasses/CockatriceCustomCards/refs/heads/main/assets/cards/John%2C%20Provider%20of%20Pasta.jpeg">GFD</set>
+    </card>
+
+    <card>
+      <name>Odie, Panicked D̶o̶g̶ Squirrel</name>
+      <text>
+This spell can't be countered.
+Indestructible
+Toski attacks each combat if able.
+Whenever a creature you control deals combat damage to a player, draw a card.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Squirrel</type>
+        <maintype>Creature</maintype>
+        <manacost>3G</manacost>
+        <cmc>4</cmc>
+        <colors>G</colors>
+        <coloridentity>G</coloridentity>
+        <pt>1/1</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+      </prop>
+      <set rarity="rare" picurl="https://raw.githubusercontent.com/ElectricMolasses/CockatriceCustomCards/refs/heads/main/assets/cards/Odie%2C%20Panicked%20D%CC%B6o%CC%B6g%CC%B6%20Squirrel.jpeg">GFD</set>
+    </card>
+
   </cards>
 
 </cockatrice_carddatabase>
