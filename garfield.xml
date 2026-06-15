@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_carddatabase version="4">
+
+  <sets>
+    <set>
+      <name>GFD</name>
+      <longname>Garfield themed proxies, centered around Ygra, Eater of All as Garfield</longname>
+      <settype>Custom</settype>
+      <releasedate>2026-06-14</releasedate>
+    </set>
+  </sets>
+
+  <cards>
+
+    <card>
+      <name>Garfield, Eater of All</name>
+      <text>
+Ward—Sacrifice a Food.
+Other creatures are Food artifacts in addition to their other types and have "{2}, {T}, Sacrifice this permanent: You gain 3 life."
+Whenever a Food is put into a graveyard from the battlefield, put two +1/+1 counters on Ygra.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Legendary Creature - Elemental Cat</type>
+        <maintype>Creature</maintype>
+        <manacost>3BG</manacost>
+        <cmc>5</cmc>
+        <colors>BG</colors>
+        <coloridentity>BG</coloridentity>
+        <pt>6/6</pt>
+        <format-standard>legal</format-standard>
+        <format-commander>legal</format-commander>
+      </prop>
+      <set rarity="rare" picurl="http://">GFD</set>
+    </card>
+
+  </cards>
+
+</cockatrice_carddatabase>
