@@ -81,6 +81,21 @@ Whenever a creature you control deals combat damage to a player, draw a card.
       <set rarity="rare" picurl="https://raw.githubusercontent.com/ElectricMolasses/CockatriceCustomCards/refs/heads/main/assets/cards/Odie%2C%20Panicked%20D%CC%B6o%CC%B6g%CC%B6%20Squirrel.jpeg">GFD</set>
     </card>
 
+    <card>
+      <name>Food</name>
+      <text>
+{2}, {T}, Sacrifice this token: You gain 3 life.
+      </text>
+      <prop>
+        <layout>normal</layout>
+        <side>front</side>
+        <type>Token Artifact - Food</type>
+        <maintype>Artifact</maintype>
+        <cmc>0</cmc>
+      </prop>
+      <token>1</token>
+    </card>
+
   </cards>
 
 </cockatrice_carddatabase>
