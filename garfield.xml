@@ -94,6 +94,7 @@ Whenever a creature you control deals combat damage to a player, draw a card.
         <cmc>0</cmc>
       </prop>
       <token>1</token>
+      <set rarity="common" picurl="https://raw.githubusercontent.com/ElectricMolasses/CockatriceCustomCards/refs/heads/main/assets/cards/Food.jpeg">GFD</set>
     </card>
 
   </cards>
